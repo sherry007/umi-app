@@ -1,0 +1,32 @@
+{
+  "name": "站点操作端",
+  "short_name": "站点操作端",
+  "start_url": "/console/workspace/monitor/controller",
+  "scope": "/console",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "description": "一款用于监控无人驾驶运营管理的软件",
+  "icons": [
+    {
+      "src": "pwa-logo.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "pwa-logo@2x.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "pwa-logo@3x.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "pwa-logo@4x.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-logo@11x.png",
+      "sizes": "528x528"
+    }
+  ]
+}
